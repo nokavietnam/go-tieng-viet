@@ -27,4 +27,4 @@ go build main.go
 
 ```
 
-[Ví dụ tiếp theo](./value/README.md)
+[Ví dụ tiếp theo](../value/README.md)
